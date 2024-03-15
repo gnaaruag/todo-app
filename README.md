@@ -2,7 +2,7 @@
 
 please note that since the app is hosted on a free instance it takes a little while for the instance to spin up
 
-Welcome to the Todo App! This is a simple web application built using Node.js and Express, designed to help you manage your tasks efficiently.
+This is a web application built using Node.js and Express, designed to help you manage your tasks efficiently.
 
 ## Getting Started
 
